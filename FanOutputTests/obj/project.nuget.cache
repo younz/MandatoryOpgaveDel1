@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fGsZ6tMkOy/dC8fAvQvbzJoYBqA0Hu0ohGDj6V2JpMfwGDq7F6lz/BXKmHcuhdOVQF2zQZgYev4xK/1NyT4IDg==",
+  "dgSpecHash": "O7PvHSn/oq3weF/7LtiY7rQXt1tzgWIr8EEAySz7cWMdJkLAGPubN4ZBdTga/ykfFjV+9noXWGiXMgdzEuB7RA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\youna\\source\\repos\\FanOutputTests\\FanOutputTests.csproj",
+  "projectFilePath": "C:\\Users\\youna\\Source\\Repos\\younz\\MadatoryOpgaveDel1\\FanOutputTests\\FanOutputTests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\youna\\.nuget\\packages\\coverlet.collector\\1.2.0\\coverlet.collector.1.2.0.nupkg.sha512",
     "C:\\Users\\youna\\.nuget\\packages\\microsoft.codecoverage\\16.5.0\\microsoft.codecoverage.16.5.0.nupkg.sha512",

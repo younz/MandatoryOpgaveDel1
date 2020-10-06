@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\youna\\source\\repos\\FanOutput\\Opgave1.csproj": {}
+    "C:\\Users\\youna\\Source\\Repos\\younz\\MadatoryOpgaveDel1\\FanOutput\\Opgave1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\youna\\source\\repos\\FanOutput\\Opgave1.csproj": {
+    "C:\\Users\\youna\\Source\\Repos\\younz\\MadatoryOpgaveDel1\\FanOutput\\Opgave1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\youna\\source\\repos\\FanOutput\\Opgave1.csproj",
+        "projectUniqueName": "C:\\Users\\youna\\Source\\Repos\\younz\\MadatoryOpgaveDel1\\FanOutput\\Opgave1.csproj",
         "projectName": "Opgave1",
-        "projectPath": "C:\\Users\\youna\\source\\repos\\FanOutput\\Opgave1.csproj",
+        "projectPath": "C:\\Users\\youna\\Source\\Repos\\younz\\MadatoryOpgaveDel1\\FanOutput\\Opgave1.csproj",
         "packagesPath": "C:\\Users\\youna\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\youna\\source\\repos\\FanOutput\\obj\\",
+        "outputPath": "C:\\Users\\youna\\Source\\Repos\\younz\\MadatoryOpgaveDel1\\FanOutput\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\youna\\AppData\\Roaming\\NuGet\\NuGet.Config",
