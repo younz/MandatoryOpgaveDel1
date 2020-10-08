@@ -1,8 +1,9 @@
 ﻿using System;
+using System.Dynamic;
 
 namespace Opgave1
 {
-    public class Class1
+    public class FanOutput
     {
         
         public int Id { get; set; }
@@ -17,13 +18,21 @@ namespace Opgave1
                 {
                     throw new NotFiniteNumberException();
                 }
-                else
-                {
-                    value = Temp;
-                }
+                
             }
         }
 
-        public int Fugt { get; set; }
+        public int Fugt
+        {
+            get;
+            set
+            {
+                if (value < 30 || value > 80)
+                {
+                    throw new NotFiniteNumberException();
+                }
+                
+            }
+        }
     }
 }
